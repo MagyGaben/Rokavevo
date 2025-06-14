@@ -5320,7 +5320,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Omeg_PC16BU_Vertical"
 			(at 198.12 76.2 0)
 			(effects
 				(font
